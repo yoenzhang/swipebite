@@ -24,12 +24,6 @@ Student ID - 20896758
 Github - jeffc1
 
 Team Member 5:
-Name - trevor sun
-Quest ID - j366sun
-Student ID -  20894418
-Github - sunishisaka
-
-Team Member 6:
 Name - Arijit Chowdhury
 Quest ID - a49chowd
 Student ID - 20891883 
