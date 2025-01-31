@@ -5,7 +5,7 @@
 - Yoen Zhang is our team lead, and is responsible for coordinating the project.
 - Mahan is responsible for merging code into main branch and producing product releases.
 - Arijit, Jeff is responsible for the front-end design and features.
-- Calix, Trevor is responsible for the database and backend design.
+- Calix is responsible for the database and backend design.
 
 ## Communication and Meetings
 
