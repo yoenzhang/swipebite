@@ -22,4 +22,10 @@
         android:name="com.example.swipebyte.ui.notifications.NotificationsFragment"
         android:label="@string/title_notifications"
         tools:layout="@layout/fragment_notifications" />
+
+    <fragment
+        android:id="@+id/navigation_community_favourites"
+        android:name="com.example.swipebyte.ui.communityFavourites.CommunityFavourites"
+        android:label="Community Favourites"
+        tools:layout="@layout/fragment_community_favourites" />
 </navigation>
