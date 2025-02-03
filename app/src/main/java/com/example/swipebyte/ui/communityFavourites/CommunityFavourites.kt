@@ -25,7 +25,7 @@ class CommunityFavourites : Fragment() {
 
         // Set up navigation for the button
         view.findViewById<View>(R.id.buttonToOtherPage).setOnClickListener {
-            findNavController().navigate(R.id.navigation_dashboard) // Replace with the desired destination
+            findNavController().navigate(R.id.navigation_home) // Replace with the desired destination
         }
 
         return view
